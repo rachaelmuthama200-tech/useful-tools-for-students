@@ -37,7 +37,6 @@ It is one of the most popular editors for programming.
 <!-- [[Rachael Muthama] will write this section -->(It acts as a "second brain" after that of programmers.  
 
 ### Why students use it
-   It aids in:
    -Building tech. documentation and snippet storage
    -Managing personal coding projects
    -Tracking software learning
