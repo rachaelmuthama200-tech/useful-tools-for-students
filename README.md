@@ -34,25 +34,24 @@ It is one of the most popular editors for programming.
       -[VS Code Tips and Tricks](Https://code.visualstudio.com/docs/get started/tips-tips-and-tricks))
 
 ## Notion
-<!-- [[Rachael Muthama] will write this section -->(It acts as a "second brain" after that of programmers. 
-It aids in 
-   
-   -building tech. documentation and snippet storage
-   
-   -managing personal coding projects
-   
-   -tracking software learning
-  
-   - mapping out roadmaps. 
+<!-- [[Rachael Muthama] will write this section -->(It acts as a "second brain" after that of programmers.  
 
-It serves as an all-in-one workspace, replacing scattered text files and complex standalone project )
+### Why students use it
+   It aids in:
+   -Building tech. documentation and snippet storage
+   -Managing personal coding projects
+   -Tracking software learning
+   -Mapping out roadmaps.
+
+### How to get started
+   1.Download it from[app.notion.com](https://app.notion.com/)
+
+     It serves as an all-in-one workspace, replacing scattered text files and complex standalone project )
 
 ## Canva
 <!-- [[Rachael Muthama] will write this section -->[Canva](Uniquely,it has expanded into AI-powered development and app integrations and primarily, it is a graphic design platform. 
-It allows programmers to: 
-
+### Benefits
+    Allows programmers to:
     -rapidly prototype UI concepts
-    
     - build widgets
-    
     -generate simple web apps without traditional coding)
