@@ -37,10 +37,10 @@ It is one of the most popular editors for programming.
 <!-- [[Rachael Muthama] will write this section -->(It acts as a "second brain" after that of programmers.  
 
 ### Why students use it
-   -Building tech. documentation and snippet storage
-   -Managing personal coding projects
-   -Tracking software learning
-   -Mapping out roadmaps.
+     -Building tech. documentation and snippet storage
+     -Managing personal coding projects
+     -Tracking software learning
+     -Mapping out roadmaps.
 
 ### How to get started
    1.Download it from[app.notion.com](https://app.notion.com/)
