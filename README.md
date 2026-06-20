@@ -4,9 +4,9 @@ A collaborative guide by [Rachael Muthama].
 
 ## Table of Contents
 - [Introduction](#introduction)
-    -VS Code
-    -Notion
-    -Canva)
+     -VS Code
+     -Notion
+     -Canva)
 - [VS Code](#vs-code)
 - [Notion](#Notion)
 - [Canva](#Canva)
@@ -48,7 +48,7 @@ It is one of the most popular editors for programming.
      It serves as an all-in-one workspace, replacing scattered text files and complex standalone project 
 
 ## Canva
-<!-- [[Rachael Muthama] will write this section -->[Canva]Uniquely,it has expanded into AI-powered development and app integrations and primarily, it is a graphic design platform. 
+<!-- [[Rachael Muthama] will write this section -->Uniquely,it has expanded into AI-powered development and app integrations and primarily, it is a graphic design platform. 
 ### Benefits
     Allows programmers to:
     -rapidly prototype UI concepts
