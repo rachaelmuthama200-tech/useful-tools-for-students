@@ -4,9 +4,9 @@ A collaborative guide by [Rachael Muthama].
 
 ## Table of Contents
 - [Introduction](#introduction)
-   -VS Code
-   -Notion
-   -Canva)
+    -VS Code
+    -Notion
+    -Canva)
 - [VS Code](#vs-code)
 - [Notion](#Notion)
 - [Canva](#Canva)
@@ -34,7 +34,7 @@ It is one of the most popular editors for programming.
       -[VS Code Tips and Tricks](Https://code.visualstudio.com/docs/get started/tips-tips-and-tricks))
 
 ## Notion
-<!-- [[Rachael Muthama] will write this section -->(It acts as a "second brain" after that of programmers.  
+<!-- [[Rachael Muthama] will write this section -->It acts as a "second brain" after that of programmers.  
 
 ### Why students use it
      -Building tech. documentation and snippet storage
@@ -45,10 +45,10 @@ It is one of the most popular editors for programming.
 ### How to get started
    1.Download it from[app.notion.com](https://app.notion.com/)
 
-     It serves as an all-in-one workspace, replacing scattered text files and complex standalone project )
+     It serves as an all-in-one workspace, replacing scattered text files and complex standalone project 
 
 ## Canva
-<!-- [[Rachael Muthama] will write this section -->[Canva](Uniquely,it has expanded into AI-powered development and app integrations and primarily, it is a graphic design platform. 
+<!-- [[Rachael Muthama] will write this section -->[Canva]Uniquely,it has expanded into AI-powered development and app integrations and primarily, it is a graphic design platform. 
 ### Benefits
     Allows programmers to:
     -rapidly prototype UI concepts
